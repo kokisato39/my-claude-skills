@@ -1,0 +1,12 @@
+{
+  "name": "my-skills-marketplace",
+  "owner": { "name": "Koki" },
+  "plugins": [
+    {
+      "name": "my-plugin",
+      "source": "./",
+      "description": "自分用のカスタムスキル集",
+      "version": "1.0.0"
+    }
+  ]
+}
