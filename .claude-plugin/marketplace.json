@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "my-plugin",
-      "source": "./",
+      "source": "./plugins/my-plugin",
       "description": "自分用のカスタムスキル集",
       "version": "1.0.0"
     }
